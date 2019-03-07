@@ -1,0 +1,28 @@
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.deps.json
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.runtimeconfig.json
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.dll
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.csprojAssemblyReference.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.pdb
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.dll
+C:\Users\Sergio\Desktop\C#\Final\Final Final\ProyectoFinalDeVerdad\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.pdb
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.deps.json
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.runtimeconfig.json
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.dll
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\bin\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.pdb
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.csprojAssemblyReference.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.dll
+C:\Users\Sergio\Desktop\C#\Final\Final Final\GitHub - ProyectoFinal\ProyectoFinalDeVerdad\obj\Debug\netcoreapp2.1\ProyectoFinalDeVerdad.pdb
